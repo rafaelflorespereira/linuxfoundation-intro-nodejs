@@ -10,6 +10,8 @@
   "author": "Rafael Flores Pereira",
   "license": "ISC",
   "dependencies": {
+    "fastify": "^4.28.1",
+    "fastify-cli": "^6.2.1",
     "serve": "^14.2.3"
   }
 }
